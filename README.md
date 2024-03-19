@@ -1,7 +1,7 @@
 # Generalizing to Out-of-Sample Degradations via Model Reprogramming (IEEE TIP 2024)
 
 Official implementation of ["**[Generalizing to Out-of-Sample Degradations via Model Reprogramming](https://scholar.google.com.hk/citations?hl=zh-CN&user=mD3lO60AAAAJ&view_op=list_works&sortby=pubdate)**"], *[Runhua Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AOV7GLOtVSSA5YAZIfaFwu9aInPr2OI4l-brSoherrpowMD_NndZ-hEbqmPezX6qy8zAq-KrcP1em6MjegzbUfzLK7U&user=mD3lO60AAAAJ)*, *[YaHong Han](http://cic.tju.edu.cn/faculty/hanyahong/index.html)*.
-DOI: ***
+DOI: 10.1109/TIP.2024.3378181
 
 We will update links once arXiv or journal versions are available.
 
